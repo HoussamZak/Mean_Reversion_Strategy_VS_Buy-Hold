@@ -1,2 +1,6 @@
 # Mean_Reversion_Trading_Strategy
-Exploring Mean Reversion Trading/Investing Strategy compared to a BUY &amp; HOLD Strategy
+Exploring Mean Reversion Trading/Investing Strategy compared to a BUY and HOLD Strategy
+
+THIS IS NOT FINANCIAL ADVICE AT ALL.
+BUY & TRADE CRYPTOCURRENCIES AT YOUR OWN RISK.
+DO YOUR OWN RESEARCH WHEN IT COMES TO CRYPTO AND SEEK PROFESSIONAL GUIDANCE.
